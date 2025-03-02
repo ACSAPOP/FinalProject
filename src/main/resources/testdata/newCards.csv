@@ -1,0 +1,4 @@
+cardName,cardNumber,expiryMonth,expiryYear
+Visa,4111111111111111,6,2080
+MasterCard,5500000000000004,12,2090
+Amex,3400000000000092,3,2085
